@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "bootstrap": "4.6.1",
+    "bootstrap-vue": "2.23.1",
+    "vue": "2.6.12"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.3.0"
+  },
+  "scripts": {
+    "build": "vue-cli-service build",
+    "serve": "vue-cli-service serve"
+  }
+}
